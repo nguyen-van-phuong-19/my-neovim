@@ -30,7 +30,7 @@ M.general = {
     ["<leader>ww"] = { "<cmd> w <CR>", "Save file" },
     -- quit
     ["<leader>qq"] = { "<cmd>q<CR>", "Quit file" },
-    ["<leader>qw"] = { "<cmd>wq<CR>", "Quit file and save file" },
+    ["<leader>wq"] = { "<cmd>wq<CR>", "Quit file and save file" },
     ["<leader>qn"] = { "<cmd>q!<CR>", "Quit file and no save file" },
     [";"] = { ":", "Command mode" },
 
